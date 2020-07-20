@@ -6,15 +6,14 @@ Chest X-rays    96%          94%      83%       92%
 
 CT Scans        93%          93%      80%       95%
 </pre>
-A Flask App was later developed wherein user can upload Chest X-rays or CT Scans and get the output of possibility of COVID infection.
-
-The article for the project was selected and published in <b>Towards Data Science</b>:<br> 
-https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a
 
 # Dataset
-The dataset for the project was gathered from two sources:
-1. Chest X-ray images (1000 images) were obtained from: https://github.com/ieee8023/covid-chestxray-dataset
-2. CT Scan images (750 images) were obtained from: https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split
+In this study, chest X-ray images of 50 COVID-19 patients have been obtained from the open source GitHub repository shared by Dr. Joseph Cohen. This repository is consisting chest X-ray / CT images of mainly patients with acute respiratory distress syndrome (ARDS), COVID-19, Middle East respiratory syndrome (MERS), pneumonia, severe acute respiratory syndrome (SARS). In addition, 50 normal chest X-ray images were selected from Kaggle repository called “Chest X-Ray Images (Pneumonia)” . Our experiments have
+been based on a created dataset with chest X-ray images of 50 normal and 50 COVID-19 patients (100 images in total). All images in this dataset were resized to 224x224 pixel size. In Figure 2 and Figure 3, representative chest X-ray images of normal and COVID-19 patients are given, respectively.
+
+CoronaHack-Chest X-Ray Dataset:https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset?
+
+CT Scan images (750 images) were obtained from: https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split
 80% of the images were used for training the models and the remaining 20% for testing
 
 # Evaluation and Results
