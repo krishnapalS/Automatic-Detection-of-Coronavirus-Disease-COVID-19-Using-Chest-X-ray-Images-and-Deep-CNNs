@@ -1,3 +1,6 @@
+# Distribution of COVID-19 cases across the World
+<img src="https://github.com/krishnapalS/Automatic-Detection-of-Coronavirus-Disease-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs/blob/master/images/Distribution.JPG" />
+
 ### Automatic-Detection-of-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs
 <img src="https://github.com/krishnapalS/Automatic-Detection-of-Coronavirus-Disease-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs/blob/master/images/Chest%20X-ray%20images.JPG" />
 
