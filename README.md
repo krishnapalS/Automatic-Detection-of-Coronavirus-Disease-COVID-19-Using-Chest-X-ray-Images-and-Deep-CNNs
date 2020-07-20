@@ -1,4 +1,6 @@
 ### Automatic-Detection-of-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs
+<img src="https://github.com/krishnapalS/Automatic-Detection-of-Coronavirus-Disease-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs/blob/master/images/Chest%20X-ray%20images.JPG" />
+
 COVID-19 Detection based on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50, InceptionV3, Xception. The models were trained for 500 epochs on around 1000 Chest X-rays and around 750 CT Scan images on Google Colab GPU. After training, the accuracies acheived for the model are as follows:
 <pre>
                 InceptionV3  VGG16   ResNet50   Xception
@@ -15,6 +17,9 @@ CoronaHack-Chest X-Ray Dataset:https://www.kaggle.com/praveengovi/coronahack-che
 
 CT Scan images (750 images) were obtained from: https://github.com/UCSD-AI4H/COVID-CT/tree/master/Data-split
 80% of the images were used for training the models and the remaining 20% for testing
+
+# Architecture
+<img src="https://github.com/krishnapalS/Automatic-Detection-of-Coronavirus-Disease-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs/blob/master/images/Architecture.JPG" />
 
 # Evaluation and Results
 <h3>Sample output of test images</h3><br>
