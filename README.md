@@ -1,3 +1,9 @@
+
+![IIIT Allahabad Internship Completion Certificate](https://drive.google.com/uc?export=view&id=13xri601xr9p5Vq7d3mPVrfRlnIRjYVua)
+
+
+
+
 # Distribution of COVID-19 cases across the World
 <img src="https://github.com/krishnapalS/Automatic-Detection-of-Coronavirus-Disease-COVID-19-Using-Chest-X-ray-Images-and-Deep-CNNs/blob/master/images/Distribution.JPG" />
 
@@ -73,4 +79,7 @@ More information can be found <a href="https://www.mathworks.com/help/deeplearni
 <br>
 <b>Xception</b> is a convolutional neural network that is 71 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals. As a result, the network has learned rich feature representations for a wide range of images. The network has an image input size of 299-by-299. <br>
 More information can be found <a href="https://www.mathworks.com/help/deeplearning/ref/resnet50.html#:~:text=ResNet%2D50%20is%20a%20convolutional,%2C%20pencil%2C%20and%20many%20animals.">here</a>
+
+
+
 
